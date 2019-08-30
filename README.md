@@ -1,2 +1,3 @@
 # Algorithm-Practice
-Algorithms written from scratch using python
+
+Common algorithms written from scratch in Python 3.
