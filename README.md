@@ -1,3 +1,3 @@
 # Algorithm-Practice
 
-Common algorithms written from scratch in Python 3.
+Algorithms for the book Computer Science Distilled (Author : Wladston Ferreira Filho).
