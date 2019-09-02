@@ -1,6 +1,7 @@
 ## Basic Implementation of finding the maximum of n (independent parameter) integers.
+## Author: AJ
 
-class arr_max():
+class arr_max:
     def __init__(self):
         self.arr = [] # Create an empty array
 
